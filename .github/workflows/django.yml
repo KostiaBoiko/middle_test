@@ -62,7 +62,7 @@ jobs:
         run: |
           python manage.py test
 
-# Команди для розгортяння програми на хмарину
+# Команди для розгортяння програми на heroku
 #  custom-deploy:
 #    needs: build
 #    runs-on: ubuntu-latest
