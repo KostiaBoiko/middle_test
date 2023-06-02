@@ -89,7 +89,7 @@ DATABASES = {
     }
 }
 
-#Налаштування для вигрузки на heroku
+#Налаштування для вигрузки на hero
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql',
